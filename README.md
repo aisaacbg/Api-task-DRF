@@ -4,7 +4,7 @@ Api task DRF
 - Pasos para la instalación de ambiente local
 1. Instalar Docker
 2. Clonar este repositorio
-3. Abrir terminar y dirigirte a la carpeta de este repositorio en tu computadora.
+3. Abrir terminal y dirigirte a la carpeta de este repositorio en tu computadora.
 
 4. Ejecutar:
   docker-compose build
